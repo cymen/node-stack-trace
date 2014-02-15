@@ -16,5 +16,8 @@
   "devDependencies": {
     "far": "0.0.3",
     "long-stack-traces": "0.1.2"
+  },
+  "scripts": {
+    "test": "node tests/run.js"
   }
 }
